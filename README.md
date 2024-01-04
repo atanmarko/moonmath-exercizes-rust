@@ -1,4 +1,6 @@
 # moonmath-exercizes-rust
-Implementation of all exercises from great MoonMath book in Rust language.
+Implementation of exercises from great `The MoonMath Manual to ZK-Snarks` book in Rust language.
 
-Run exercises with `cargo test -- --nocapture` command.
+Currently only chapters 3 & 4 are implemented.
+
+Run exercises with `cargo test` command.
